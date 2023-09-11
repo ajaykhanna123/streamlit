@@ -1,2 +1,7 @@
 streamlit
 sentence-transformers
+huggingface_hub
+text_generation
+requests
+langchain
+openai
